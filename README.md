@@ -11,4 +11,4 @@ If you have a Funko Pop figure with the same problem maybe this will help.
 ## Can I modify it?
 Please do! 
 
-![image of stand](https://www.github.com/niccit/funko-stand/popstand.png)
+![image of stand](popstand.png)
